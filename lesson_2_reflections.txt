@@ -8,4 +8,6 @@ How is the staging area different from the working directory and the repository?
 Staging area is an intermediate step between the working directory and the repository.  It provides a way to specify which files should be included in a commit.
 
 
+How can you use the staging area to make sure you have one commit per logical change?
 
+Use 'git diff --staged' to see differences between the staging area and most recent commit.  All changes listed should be part of a logical change.
