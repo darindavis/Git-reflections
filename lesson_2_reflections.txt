@@ -21,3 +21,9 @@ Branches would be helpful when you want to experiment with a feature that is unc
 How do the diagrams help you visualize the branch structure?
 
 Diagram depict the parent-child relationships of commits.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+All the differences between the two branches are now reflected in a single branch.  The merged commit is shown with two parents because that is where the changes came from.
+
