@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+.git is created along with default files and sub-directories.  Without those default files, Git doesn't know where its starting point is.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area is an intermediate step between the working directory and the repository.  It provides a way to specify which files should be included in a commit.
+
+
+
