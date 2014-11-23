@@ -27,3 +27,9 @@ What is the result of merging two branches together? Why do we represent it in t
 
 All the differences between the two branches are now reflected in a single branch.  The merged commit is shown with two parents because that is where the changes came from.
 
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+Auto-merging is fast.  Manual merging relies on a human for correctness of the merge.
+
+
