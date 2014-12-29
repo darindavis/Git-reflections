@@ -29,10 +29,11 @@ repository.  A fork is used when developer A wants to modify developer B's
 code but does not have permission to do so (i.e. A is not a collaborator).
 
 
-What is the benefit of having a copy of the last known state of the remote
+4) What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+This allows you to work offline and synchronize commits later.
+
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
