@@ -35,10 +35,16 @@ stored locally?
 This allows you to work offline and synchronize commits later.
 
 
-How would you collaborate without using Git or GitHub?  What would be easier,
+5) How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+Collaborating without Git or GitHub would require communication via email,
+chat, phone, etc.  Files would have to be shared via email or some other
+shared repository.  There would need to be an agreement to ensure changes
+by multiple contributors don't collide.  Nearly everything would be harder.
+The only disadvantage of Git and GitHub is the learning curve required to
+understand how these tools work.
+
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
