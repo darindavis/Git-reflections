@@ -46,7 +46,12 @@ The only disadvantage of Git and GitHub is the learning curve required to
 understand how these tools work.
 
 
-When would you want to make changes in a separate branch rather than directly in
+6) When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+Using a separate branch provides collaborators with a mechanism for reviewing
+your proposed changes without affecting master.  The disadvantage of using a
+separate branch is that the workflow is more complicated (i.e. pull changes
+into local master, merge local master into different branch, push that branch
+to the remote, merge that branch into master).
+
